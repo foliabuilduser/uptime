@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
     "status": "up",
-    "uptime": "95.05%",
+    "uptime": "95.06%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "69.96%",
     "time": 113,
-    "timeDay": 79,
-    "timeWeek": 85,
-    "timeMonth": 93,
+    "timeDay": 117,
+    "timeWeek": 90,
+    "timeMonth": 95,
     "timeYear": 116,
     "dailyMinutesDown": {
       "2025-12-13": 34,
@@ -143,10 +143,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 185,
-    "timeDay": 39,
-    "timeWeek": 152,
-    "timeMonth": 160,
-    "timeYear": 197,
+    "timeDay": 50,
+    "timeWeek": 153,
+    "timeMonth": 159,
+    "timeYear": 196,
     "dailyMinutesDown": {
       "2025-12-03": 15
     }
@@ -163,9 +163,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 289,
-    "timeDay": 63,
-    "timeWeek": 212,
-    "timeMonth": 226,
+    "timeDay": 128,
+    "timeWeek": 220,
+    "timeMonth": 220,
     "timeYear": 281,
     "dailyMinutesDown": {
       "2025-12-17": 32
